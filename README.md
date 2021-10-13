@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love sketching and digital art
 - 📫 How to reach me: mailto:burewar.1@iitj.ac.in
 
-Check my Repos here - https://saurabhburewar.github.io/GitRepoOrganizer/
+About me - https://saurabhburewar.github.io/
+Organized view of my repos - https://saurabhburewar.github.io/GitRepoOrganizer/
