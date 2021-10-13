@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I'm Saurabh Burewar
 - 🔭 I’m currently learning ML
 - 🌱 On the side, I have been learning React and brushing up on JS
-- 👯 I’m looking to collaborate on any UI work
+- 👯 I’m looking to collaborate on any front-end work
 - ⚡ Fun fact: I love sketching and digital art
 - 📫 How to reach me: [burewar.1@iitj.ac.in](mailto:burewar.1@iitj.ac.in)
 - 📖 More about me - https://saurabhburewar.github.io/  
