@@ -15,11 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 👋 Hi, I'm Saurabh Burewar
-- 🌱 I’m currently learning ML
-- 🌱 I have been learning React and brushing up on JS on the side
+- 🔭 I’m currently learning ML
+- 🌱 On the side, I have been learning React and brushing up on JS
 - 👯 I’m looking to collaborate on any UI work
 - ⚡ Fun fact: I love sketching and digital art
 - 📫 How to reach me: [burewar.1@iitj.ac.in](mailto:burewar.1@iitj.ac.in)
-
-About me - https://saurabhburewar.github.io/  
-Organized view of my repos - https://saurabhburewar.github.io/GitRepoOrganizer/
+- 📖 About me - https://saurabhburewar.github.io/  
+- 📚 Organized view of my repos - https://saurabhburewar.github.io/GitRepoOrganizer/
