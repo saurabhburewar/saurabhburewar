@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any UI work
 - ⚡ Fun fact: I love sketching and digital art
 - 📫 How to reach me: [burewar.1@iitj.ac.in](mailto:burewar.1@iitj.ac.in)
-- 📖 About me - https://saurabhburewar.github.io/  
+- 📖 More about me - https://saurabhburewar.github.io/  
 - 📚 Organized view of my repos - https://saurabhburewar.github.io/GitRepoOrganizer/
