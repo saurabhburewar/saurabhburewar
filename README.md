@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 On the side, I have been learning React and brushing up on JS
 - 👯 I’m looking to collaborate on any front-end work
 - ⚡ Fun fact: I love sketching and digital art
-- 📫 How to reach me: [burewar.1@iitj.ac.in](mailto:burewar.1@iitj.ac.in)
+- 📫 How to reach me: [saurabh.skbr@gmail.com](mailto:saurabh.skbr@gmail.com)
 - 📖 More about me - https://saurabhburewar.github.io/  
 - 📚 Organized view of my repos - https://saurabhburewar.github.io/GitRepoOrganizer/
