@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Saurabh Burewar.
 
-- 📚 Computer Science undergrad
+- 📚 Computer Science undergrad (IIT Jodhpur)
 - 🏢 Big Data: Hadoop, Hive, Spark(Scala/PySpark)
 - 🧠 AI: Computer Vision + NLP
 - 🕸  Full stack web: React + NodeJS
