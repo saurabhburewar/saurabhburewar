@@ -1,5 +1,4 @@
 ### Hi there 👋
-<hr />
 I'm Saurabh Burewar.
 
 - 📚 Computer Science undergrad
