@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/saurabhburewar/saurabhburewar/blob/main/Hi.gif" width="30px">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Saurabh+Burewar)](https://git.io/typing-svg)
 
-[<img height="20" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=%230A66C2" />][LinkedIn]
+[<img height="25" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=%230A66C2" />][LinkedIn]
 
 
 
