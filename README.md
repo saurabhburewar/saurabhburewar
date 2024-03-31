@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/saurabhburewar/saurabhburewar/blob/main/Hi.gif" width="30px">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Saurabh+Burewar)](https://git.io/typing-svg)
 
-![Static Badge](https://img.shields.io/badge/LinkedIn?logo=LinkedIn&logoColor=black&color=%230a66c2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaurabh-burewar-355131185%2F)
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 https://saurabhburewar.vercel.app/
 
