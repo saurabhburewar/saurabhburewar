@@ -15,7 +15,7 @@
 - Using Neural Networks to <a href="https://github.com/saurabhburewar/ML_Mapping-RGB-face-video-data-to-core-body-temperature-at-runtime-RAKSHAK">Map RGB Image data and produce NIR conterparts, plus map images to body temperature</a> for Covid body temperature surveillance.
 - Understanding important movements in social media by finding patterns and <a href="https://saurabhburewar.github.io/Data-and-Networks_Hashtag-analysis/">analyzing networks build on data from Twitter API and Web scraping</a> Koo(a less-known social media).
 - Handling/Preparing huge data by parsing through Research data on PubMed and <a href="https://github.com/saurabhburewar/Data-and-Networks_ParsingLargeBibliographyData">Building a data store and networks</a> for further analysis.
-- Chrome Extension <a href="https://saurabhburewar.github.io/Web_TheLearnersTab/">Leaners Tab</a> that provides a customizable dashboard for a productive day.
+- Chrome Extension <a href="https://saurabhburewar.github.io/Web_TheLearnersTab/">Learners Tab</a> that provides a customizable dashboard for a productive day.
 
 ---
 ### Everything else
