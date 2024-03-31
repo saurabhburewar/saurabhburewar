@@ -19,7 +19,8 @@
 
 ---
 ### Everything else
--  Grouping and Organizing Github Repositories - <a href="https://saurabhburewar.github.io/GitRepoOrganizer/">Github Repo Organizer</a>
+- Grouping and Organizing Github Repositories - <a href="https://saurabhburewar.github.io/GitRepoOrganizer/">Github Repo Organizer</a>
+- All my other projects - <a href="https://saurabhburewar.vercel.app/projects">Portfolio/Projects</a>
 
 
 [Portfolio]: https://saurabhburewar.vercel.app/
