@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Saurabh Burewar.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Saurabh+Burewar)](https://git.io/typing-svg)
 
 - 📚 Computer Science undergrad (IIT Jodhpur)
 - 🏢 Big Data: Hadoop, Hive, Spark(Scala/PySpark)
