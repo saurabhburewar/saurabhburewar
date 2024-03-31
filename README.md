@@ -12,7 +12,8 @@
 - 🎨 Sketching and Digital Art
 ---
 ### Highlights
-
+- Using Neural Networks to <a href="https://github.com/saurabhburewar/ML_Mapping-RGB-face-video-data-to-core-body-temperature-at-runtime-RAKSHAK">Map RGB Image data and produce NIR conterparts, plus map images to body temperature</a> for Covid body temperature surveillance.
+- Chrome Extension <a href="https://saurabhburewar.github.io/Web_TheLearnersTab/">Leaners Tab</a> that provides a customizable dashboard for a productive day.
 
 ---
 ### Everything else
