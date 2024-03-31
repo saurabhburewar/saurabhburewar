@@ -3,8 +3,8 @@
 
 [<img height="25" src="https://img.shields.io/badge/Portfolio-grey?logo=readme&logoColor=white&color=%233a3a5b" />][Portfolio]
 [<img height="25" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=%230A66C2" />][LinkedIn]
-[<img height="25" src="https://img.shields.io/badge/Artworks-pink?logo=instagram&logoColor=white&color=%23ec4e79" />][Instagram]
 [<img height="25" src="https://img.shields.io/badge/Mail-red?logo=gmail&logoColor=white&color=%23EA4335" />][Mail]
+[<img height="25" src="https://img.shields.io/badge/Artworks-pink?logo=instagram&logoColor=white&color=%23ec4e79" />][Instagram]
 
 
 - 📚 Computer Science undergrad (IIT Jodhpur)
