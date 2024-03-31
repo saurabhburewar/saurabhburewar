@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Saurabh+Burewar)](https://git.io/typing-svg)
 
 [<img height="25" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&color=%230A66C2" />][LinkedIn]
-[<img height="25" src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&color=%23ec4e79" />][Artworks]
+[<img height="25" src="https://img.shields.io/badge/Artworks-pink?logo=instagram&logoColor=white&color=%23ec4e79" />][Instagram]
 
 
 https://saurabhburewar.vercel.app/
@@ -23,4 +23,4 @@ https://saurabhburewar.vercel.app/
 
 [twitter]: https://twitter.com/shivasankeerth
 [linkedin]: https://www.linkedin.com/in/saurabh-burewar-355131185/
-[Medium]: https://medium.com/@shivasankeerth
+[Instagram]: https://www.instagram.com/qwerty_pencils/
