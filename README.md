@@ -21,7 +21,7 @@
 
 ---
 ### Artworks
-- <a href="https://saurabhburewar.github.io/Artworks_Room/">A simple room using only HTML & CSS.</a>
+- <a href="https://saurabhburewar.github.io/Artworks_Room/">A simple room using ONLY HTML & CSS.</a>
 
 ---
 ### Other useful stuff
