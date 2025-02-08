@@ -22,6 +22,7 @@
 ---
 ### Artworks
 - <a href="https://saurabhburewar.github.io/Artworks_Room/">A simple room using ONLY HTML & CSS.</a>
+- <a href="https://saurabhburewar.github.io/Artworks_Firewatch/">A day cycle with Firewatch style art</a>
 
 ---
 ### Other useful stuff
