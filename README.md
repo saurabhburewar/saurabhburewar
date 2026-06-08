@@ -8,7 +8,7 @@
 
 
 - 📚 Computer Science undergrad (IIT Jodhpur)
-- 🏢 Big Data: On-Prem Hadoop, Cloud Azure/AWS, Spark(Scala/PySpark), Kafka/Flink
+- 🏢 Big Data: Spark(Scala/PySpark), Kafka/Flink;  On-Prem Hadoop, Cloud Azure/AWS
 - 🧠 AI: Computer Vision + NLP
 - 🕸  Full stack web: React + NodeJS
 - 🎨 Sketching and Digital Art
