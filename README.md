@@ -30,7 +30,7 @@
 - All my other projects - <a href="https://saurabhburewar.vercel.app/projects">Portfolio/Projects</a>
 
 
-[Portfolio]: https://saurabhburewar.vercel.app/
+[Portfolio]: https://saurabhburewar.github.io/
 [linkedin]: https://www.linkedin.com/in/saurabh-burewar-355131185/
 [Instagram]: https://www.instagram.com/qwerty_pencils/
 [Mail]: mailto:saurabh.skbr@gmail.com
